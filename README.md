@@ -19,6 +19,10 @@ React Native
 - Tıklanan karakterin detay sayfasına gidebilmek.
 - Karakterin adı veya seri numarası ile arama yapabilmek.
 
+## API
+
+Kullanılan API: PokeAPI
+
 ## Başlangıç
 
 Bu depoyu yerel makinenizde klonlayın.
