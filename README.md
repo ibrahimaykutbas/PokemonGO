@@ -36,7 +36,7 @@ git clone https://github.com/ibrahimaykutbas/PokemonGo.git
 Projeyi klonladıktan sonra ilgili dizine gidin.
 
 ```
-cd patika-react-native/PokemonGo
+cd PokemonGo
 code .
 ```
 
